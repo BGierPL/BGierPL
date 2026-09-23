@@ -14,7 +14,7 @@ I'm currently learning **Data Engineering**, with a focus on building strong fou
 - ETL / ELT pipelines
 
 ## Background
-Finance & Controlling → Data Engineering
+Finance & Controlling background, transitioning into Data Engineering
 
 ## Outside of data
 🌍 58/195 countries and counting
