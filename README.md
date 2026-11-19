@@ -17,4 +17,4 @@ I'm currently learning **Data Engineering**, with a focus on building strong fou
 Finance & Controlling background, transitioning into Data Engineering
 
 ## Outside of data
-🌍 58/195 countries and counting
+🌍 59/195 countries and counting
